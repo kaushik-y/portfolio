@@ -25,7 +25,7 @@ nav{
     display: flex;
     font-size: 35px;
     font-weight: 800;
-    color:#3d535f;
+    color:#c643f6;
     letter-spacing: 3px;
     cursor: pointer;
     text-transform: uppercase;
@@ -33,12 +33,9 @@ nav{
 
 b{
     font-size: 50px;
-    color: #8a46ce;
+    color: #a131d4;
 }
-b1{
-    font-size: 50px;
-    color: #c55ce5;
-}
+
 .navItems{
     display: flex;
 }
@@ -170,7 +167,7 @@ button{
 
 button a:link {
     text-decoration: none;
-    
+    color: white;
 }
 
 button a:visited {
