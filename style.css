@@ -25,7 +25,7 @@ nav{
     display: flex;
     font-size: 35px;
     font-weight: 800;
-    color:#c643f6;
+    color:#3d535f;
     letter-spacing: 3px;
     cursor: pointer;
     text-transform: uppercase;
@@ -33,7 +33,7 @@ nav{
 
 b{
     font-size: 50px;
-    color: #a131d4;
+    color: #c643f6;
 }
 
 .navItems{
